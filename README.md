@@ -6,11 +6,11 @@
 
 🛠️ Skills
 
-Python
-C Programming
-Git & GitHub
-SQL
-HTML 
+Python, 
+C Programming, 
+Git & GitHub, 
+SQL, 
+HTML,
 
 🌱 Currently Pursuing
 
