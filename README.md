@@ -7,8 +7,7 @@
 🛠️ Skills
 
 Python, 
-C Programming, 
-Git & GitHub, 
+C Programming,  
 SQL, 
 HTML,
 
